@@ -1,4 +1,4 @@
-# This is Coursera Developing Data Products Week 4 Project.
+# This is for Coursera Developing Data Products Week 4 Project.
 
 The First objective is to create Shiny Application :
 
